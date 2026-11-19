@@ -13,9 +13,9 @@
 
 <div align="center">
 <pre>
-🌙 currently building a <strong>full-stack CRUD project</strong>
-🍀 leveling up in <strong>Next.js · React · TypeScript</strong>
-🌼 building websites that are <strong>beautiful</strong> and <strong>functional</strong>
+🌙 created a fitness app using <strong>React Native</strong>
+🍀 leveling up in <strong>React · Java Script/TypeScript</strong>
+🌼 building projects that are both <strong>beautiful</strong> and <strong>functional</strong>
 </pre>
 </div>
 
@@ -36,7 +36,6 @@
 <div align="center">
   
 [![](https://img.shields.io/badge/LinkedIn-0077b5)](https://linkedin.com/in/oleksandra-maryanko)
-[![](https://img.shields.io/badge/Instagram-e1306c)](https://instagram.com/sotluf)
 [![](https://img.shields.io/badge/Email-4a4a4a)](mailto:maryanko.oleksandra@gmail.com)
 <br/>
 ❤️
